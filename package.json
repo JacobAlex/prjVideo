@@ -1,0 +1,25 @@
+{
+  "name": "music_manager_v05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "connect-flash": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "method-override": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-local": "*",
+    "passport-local-mongoose": "*", 
+    "path": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
